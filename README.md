@@ -1,4 +1,4 @@
-# php-startup
+# php-MVC
 
 #sample php MVC project for biginners
 
